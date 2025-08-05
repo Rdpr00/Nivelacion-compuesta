@@ -1,4 +1,4 @@
-"""PROGRAMA PARA CALCULAR Y GRAFICAR LA TOPOGRAFÍA DE UNA SECCIÓN DE TOMOGRAFÍA ELÉCTRICA"""
+"""PROGRAMA PARA CALCULAR Y GRAFICAR LA TOPOGRAFÍA"""
 
 import numpy as np 
 import matplotlib.pyplot as plt
@@ -93,4 +93,5 @@ plt.ylabel('Elevación (m.s.n.m.)')
 plt.title('Perfil Topográfico de la Sección')
 plt.grid(True)
 plt.legend()
+
 plt.show()
