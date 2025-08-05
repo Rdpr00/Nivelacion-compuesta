@@ -82,7 +82,7 @@ for i in range(1, len(df)):
 df['Cota']=df['Cota']/100
 
 # Exportación a Excel
-df.to_excel("Topografia_calculada_CPEMEX.xlsx", index=False)
+df.to_excel("output-filename.xlsx", index=False)
 print("\nEl archivo Excel ha sido creado exitosamente.")
 
 # Gráfico
@@ -95,3 +95,4 @@ plt.grid(True)
 plt.legend()
 
 plt.show()
+
