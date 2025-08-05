@@ -5,5 +5,4 @@ El presente código simplifica el cálculo de la sección topográfica, donde un
 
 Como resultado el programa genera un archivo .xlsx, el cual contiene tanto los datos de campo como los datos calculados y corregidos (en metros), listos para ingresar a un programa de inversión geofísica.
 
-EL código es en python, el cual se encuentra **terminado**. Proximamente se trasladará a JavaScript para poder utilizarlo de manera interactiva e intuitiva como una página web.
-
+EL código es en python. Aún tiene oportunidad para ser optimizado en la funcionalidad, sin embargo, ya arroja los resultados esperados.
