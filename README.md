@@ -7,4 +7,3 @@ Como resultado el programa genera un archivo .xlsx, el cual contiene tanto los d
 
 EL código es en python, el cual se encuentra **terminado**. Proximamente se trasladará a JavaScript para poder utilizarlo de manera interactiva e intuitiva como una página web.
 
-Esta modificacion es para provar git pull
