@@ -1,4 +1,4 @@
-<h1> Cálculo de topografía mediante nivealación compuesta </h1>
+<h1> Cálculo de topografía mediante nivelación compuesta </h1>
 
 El procesar datos geofísicos a menudo requiere tomar en cuenta la topografía de la zona de estudio para la inversión de los datos, pues muchas veces los resultados se ven afectados si la topografía es abrupta o muy accidentada. 
 El presente código simplifica el cálculo de la sección topográfica, donde unicamente se requiere el numero total de puntos leídos, las lecturas de cada punto y la ubicación de los empates. 
